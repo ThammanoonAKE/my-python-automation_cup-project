@@ -1,0 +1,20 @@
+# -----------------------------
+# Core deep‑learning stack
+# -----------------------------
+torch>=2.0                # Ultralytics จะติดตั้ง torch ให้อยู่แล้ว
+torchvision>=0.15         # แต่ระบุไว้ชัดเจนช่วยลดปัญหา dependency
+
+# -----------------------------
+# Ultralytics YOLOv8 (ล่าสุด)
+# -----------------------------
+ultralytics==8.3.160      # Released: 27 Jun 2025 :contentReference[oaicite:0]{index=0}
+
+# -----------------------------
+# OpenCV (cv2)
+# -----------------------------
+opencv-python==4.11.0.86  # Released: 16 Jan 2025 :contentReference[oaicite:1]{index=1}
+
+# -----------------------------
+# (Optional) quality‑of‑life
+# -----------------------------
+tqdm>=4.66                # แถบ progress ขณะ train/test
