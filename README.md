@@ -1,4 +1,4 @@
-# ระบบตรวจจับแก้วอัตโนมัติ (Cup Detection Automation)
+# ระบบตรวจจับถ้วยอัตโนมัติ (Cup Detection Automation)
 
 โปรเจกต์ Computer Vision สำหรับตรวจจับถ้วยบนสายพานลำเลียงและป้องกันการชนกัน
 
